@@ -8,4 +8,11 @@ def main(a,b,c):
     Returns:
         int: return answer.
     """
-    return
+    if a<=b and a<=b:
+        return a
+    elif b<=c and b<=a:
+        return b
+    else:
+        return c
+print(main(-1,-3,-5)) 
+    
